@@ -1,3 +1,13 @@
+
+# ReMeMeder
+A simple Meteor+React App for sending email MeMes as Reminder
+
+The Meteor Boilerplate is based off the Meteor Chef
+
+To send Email it uses
+react-html-email package (https://github.com/chromakode/react-html-email)
+
+
 # The Meteor Chef - Base
 A starting point for Meteor apps.
 
